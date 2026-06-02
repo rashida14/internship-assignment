@@ -12,5 +12,5 @@ My Top 5 Learnings
 
 5\. Creating Pull Requests on GitHub.
 
-
+6\. Learned how to create and manage Pull Requests.
 
